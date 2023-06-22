@@ -21,4 +21,4 @@ Note: This list includes only a few of my projects. You can see all of my reposi
 ## 📊 My GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Illia-the-coder&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illia-the-coder&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illia-the-coder&layout=compact)
