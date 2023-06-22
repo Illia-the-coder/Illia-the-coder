@@ -10,5 +10,6 @@ I'm a passionate coder who loves to take on new challenges. My main areas of int
 5. [View All](https://github.com/Illia-the-coder?tab=repositories)
 Note: This list includes only a few of my projects. You can see all of my repositories by clicking "View All".
 ## 📊 My GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Illia-the-coder&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illia-the-coder&layout=compact)
+<p align="left">
+    <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Illia-the-coder&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illia-the-coder&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
+</p>
