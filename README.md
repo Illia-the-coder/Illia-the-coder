@@ -1,12 +1,12 @@
 # Hi there, I'm Illia! 👋
-
+🎓Netherlands, Alkmaar🎓
 ## About Me
 I'm an AI Specialist and enthusiastic coder. Here are some of the projects that I'm most proud of:
 ## My Favorite Projects 🚀
 1. [Telegram-Notion-Image-Updater](https://github.com/Illia-the-coder/Telegram-Notion-Image-Updater)
-2. [Physics_telegram_to_notion](https://github.com/Illia-the-coder/Physics_telegram_to_notion)
+2. [Youtube-Whisper-Llama]([https://github.com/Illia-the-coder/Physics_telegram_to_notion](https://github.com/Illia-the-coder/Youtube-Whisper-Llama))
 3. [Ukr-Books-ChatGPT-Plugin](https://github.com/Illia-the-coder/Ukr-Books-ChatGPT-Plugin)
-4. [LangChain-to-Telegraph](https://github.com/Illia-the-coder/LangChain-to-Telegraph)
+4. [TGStatAnalyze](https://github.com/Illia-the-coder/TGStatAnalyze)
 5. [View All](https://github.com/Illia-the-coder?tab=repositories)
 ## Connect with me
 
