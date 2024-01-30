@@ -3,7 +3,7 @@
 
 ## About Me
 As an AI Specialist and passionate coder, I blend creativity with technology to develop innovative solutions. Multilingual and multicultural, I speak English and German fluently, and am conversational in Dutch, with Russian and Ukrainian as my mother tongues.
-
+Ishaan, you RE STUPID!!!
 ## My Favorite Projects 🚀
 1. **[Telegram-Notion-Image-Updater](https://github.com/Illia-the-coder/Telegram-Notion-Image-Updater):** A seamless integration tool for updating images from Telegram to Notion.
 2. **[Youtube-Whisper-Llama](https://github.com/Illia-the-coder/Youtube-Whisper-Llama):** An innovative project leveraging YouTube's API for enhanced user experiences.
