@@ -4,12 +4,7 @@
 ## About Me
 As an AI Specialist and passionate coder, I blend creativity with technology to develop innovative solutions. Multilingual and multicultural, I speak English and German fluently, and am conversational in Dutch, with Russian and Ukrainian as my mother tongues.
 
-## My Favorite Projects 🚀
-1. **[Telegram-Notion-Image-Updater](https://github.com/Illia-the-coder/Telegram-Notion-Image-Updater):** A seamless integration tool for updating images from Telegram to Notion.
-2. **[Youtube-Whisper-Llama](https://github.com/Illia-the-coder/Youtube-Whisper-Llama):** An innovative project leveraging YouTube's API for enhanced user experiences.
-3. **[Ukr-Books-ChatGPT-Plugin](https://github.com/Illia-the-coder/Ukr-Books-ChatGPT-Plugin):** A ChatGPT plugin focused on Ukrainian literature, showcasing my cultural roots and technical skills.
-4. **[TGStatAnalyze](https://github.com/Illia-the-coder/TGStatAnalyze):** A Telegram analytics tool providing in-depth insights into user interactions.
-5. **[View All Projects](https://github.com/Illia-the-coder?tab=repositories)**
+## My Most Valuable Projects 🚀
 
 ## Connect with Me
 - **Email:** i.ludogovskyi@gmail.com
